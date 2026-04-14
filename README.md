@@ -1,12 +1,17 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Raja Abimanyu N - Neural AI Banner"/>
+# Raja Abimanyu N
+
+### Principal Data Scientist · AI & Applied Machine Learning Engineer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+Production+GenAI+Systems+%F0%9F%A4%96;LangGraph+%7C+RAG+%7C+Voice+AI+%7C+Knowledge+Graphs;%22I+don%27t+just+build+AI+demos+%E2%80%94+I+ship+production+systems.%22)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-abimanyu-n-691328341)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abimanyu2597)
 [![Location](https://img.shields.io/badge/Chennai,%20India-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai)
+[![Experience](https://img.shields.io/badge/Experience-6.5%2B%20Years-22C55E?style=for-the-badge&logoColor=white)](https://github.com/abimanyu2597)
 
 </div>
 
@@ -41,6 +46,7 @@ My work sits at the intersection of **LLM orchestration**, **agentic pipelines**
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black)
 ![Cartesia TTS](https://img.shields.io/badge/Cartesia%20TTS-7C3AED?style=flat-square&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-000000?style=flat-square&logo=openai&logoColor=white)
 
 ### 🧱 Backend & Infrastructure
 
@@ -49,6 +55,7 @@ My work sits at the intersection of **LLM orchestration**, **agentic pipelines**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ### 🖥️ Frontend
 
@@ -56,58 +63,25 @@ My work sits at the intersection of **LLM orchestration**, **agentic pipelines**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 -----
 
 ## 🚀 Featured Projects
 
-### 🔊 Super Nova — Real-Time Jarvis-Like Voice Assistant
+|Project                  |Stack                                                    |Description                                                                             |
+|-------------------------|---------------------------------------------------------|----------------------------------------------------------------------------------------|
+|🔊 **Super Nova**         |LiveKit · Deepgram · GPT-4.1 Mini · Cartesia · Next.js   |Real-time Jarvis-like voice assistant. 28-file full-stack system, sub-200ms latency     |
+|🧠 **GuidePro AI**        |LangGraph 8-node · GPT-4o/Groq · FAISS · Whisper · Docker|84-file, 4,700+ line enterprise advisory platform with dual LLM routing & multimodal RAG|
+|📊 **CompareIQ AI**       |LangGraph 10-node · Qdrant · Redis SSE · React           |Decision intelligence platform with real-time streaming & multi-criteria analysis       |
+|🕸️ **LiveKG AI**          |Neo4j · GPT-4o · FastAPI · Streamlit                     |Real-time knowledge graph copilot with LLM-powered graph reasoning                      |
+|🎙️ **AI Interview System**|LangGraph · Vite/React · OpenAI · Groq                   |Multi-agent pipeline: Interviewer → Evaluator → Follow-up → Report Generator            |
+|🏫 **Arivu Koodam AI**    |ChromaDB · LangChain LCEL · SQLite                       |AI ed-platform for Indian students (Class 6–12), multi-board, multi-language            |
+|🎵 **Song Buddy**         |NestJS · LangChain ReAct · FAISS · Self-RAG              |Full music streaming platform with multi-LLM agentic search                             |
+|📈 **MarketPulse AI**     |Streamlit · yfinance · LangChain Agents                  |Financial intelligence dashboard with 6 agentic tools                                   |
 
-> **LiveKit Agents · Deepgram STT · GPT-4.1 Mini · Cartesia TTS · Next.js · FastAPI**
-
-A 28-file production voice agent built on LiveKit’s AgentSession architecture with sub-200ms response latency. Fully integrated Next.js frontend with live audio streaming, real-time transcription display, and FastAPI backend orchestration.
-
------
-
-### 🧠 GuidePro AI — Enterprise Advisory Platform
-
-> **LangGraph (8 nodes) · GPT-4o / Groq Llama · FAISS RAG · Whisper · JWT Auth · Docker**
-
-84-file, 4,700+ line production app featuring dual LLM routing, per-user RAG knowledge bases, multimodal input (voice + vision), and full Docker deployment. Powers personalized advisory workflows at enterprise scale.
-
------
-
-### 📊 CompareIQ AI — Decision Intelligence Platform
-
-> **LangGraph (10 nodes) · Qdrant · Redis SSE · Multimodal · React**
-
-Full-stack comparison engine with a 10-node agentic pipeline, vector-powered retrieval, real-time SSE streaming, and a navigable multi-page React UI. Built for complex, multi-criteria decision intelligence.
-
------
-
-### 🧬 LiveKG AI — Real-Time Knowledge Graph Copilot
-
-> **Neo4j · GPT-4o · Groq · FastAPI · Streamlit (React-embedded)**
-
-Real-time knowledge graph generation and exploration copilot. Integrates Neo4j graph traversal with LLM-powered reasoning and an embedded React component inside Streamlit.
-
------
-
-### 🎙️ AI Interview System — Multi-Agent Interview Pipeline
-
-> **LangGraph · Vite/React · OpenAI · Groq · Multi-Agent**
-
-Sequential multi-agent pipeline — Interviewer → Evaluator → Follow-up → Report Generator — with a chat-style React UI and a live provider toggle between OpenAI and Groq.
-
------
-
-### 🏫 Arivu Koodam AI — Indian Students AI Platform
-
-> **ChromaDB RAG · LangChain LCEL · SQLite · Streamlit**
-
-40-file AI educational platform for Indian students (Class 6–12, multi-board, multi-language). Personalised learning via ChromaDB RAG with persistent SQLite session history.
-
-*[→ See all repositories](https://github.com/abimanyu2597?tab=repositories)*
+*[→ See all 29 repositories](https://github.com/abimanyu2597?tab=repositories)*
 
 -----
 
@@ -115,14 +89,14 @@ Sequential multi-agent pipeline — Interviewer → Evaluator → Follow-up → 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abimanyu2597&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimanyu2597&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abimanyu2597&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimanyu2597&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abimanyu2597&theme=tokyonight&hide_border=true&background=0d1117)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abimanyu2597&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/abimanyu2597)
 
 </div>
 
@@ -131,7 +105,7 @@ Sequential multi-agent pipeline — Interviewer → Evaluator → Follow-up → 
 ## 🌱 What I’m Building
 
 - 🔬 Expanding agentic AI architectures with **LangGraph** and **CrewAI**
-- 🎙️ Pushing real-time voice AI latency boundaries with **LiveKit + WebRTC**
+- 🎙️ Pushing real-time voice AI latency with **LiveKit + WebRTC**
 - 🕸️ Production **GraphRAG** systems combining **Neo4j** with vector retrieval
 - 📚 Running a weekly **AI Learning Community** — covering RAG, GraphRAG & Knowledge Graphs
 
@@ -143,14 +117,12 @@ Sequential multi-agent pipeline — Interviewer → Evaluator → Follow-up → 
 
 I’m open to **collaborations**, **freelance AI consulting**, and **enterprise AI engagements**.
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-abimanyu-n-691328341)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-abimanyu-n-691328341)
 
 </div>
 
 -----
 
 <div align="center">
-
-<img src="./banner.svg" width="100%" alt="Raja Abimanyu N - Neural AI Banner"/>
-
+<sub>⚡ Powered by Python, LangGraph & a lot of GPU time</sub>
 </div>
