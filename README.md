@@ -137,8 +137,4 @@ I’m open to **collaborations**, **freelance AI consulting**, and **enterprise 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-abimanyu-n-691328341)
 [![View Repos](https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abimanyu2597?tab=repositories)
 
-<br/>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Up.svg)
-
-</div>
+<br/><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,100:06b6d4&amp;height=100&amp;section=footer" width="100%"/></div>
