@@ -101,11 +101,7 @@ My work sits at the intersection of **LLM orchestration**, **agentic pipelines**
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abimanyu2597&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=abimanyu2597&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=4&amp;row=1" alt="trophies"/></div>
 
 -----
 
