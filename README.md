@@ -13,6 +13,10 @@
 [![Location](https://img.shields.io/badge/Chennai,%20India-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai)
 [![Experience](https://img.shields.io/badge/Experience-6.5%2B%20Years-22C55E?style=for-the-badge&logoColor=white)](https://github.com/abimanyu2597)
 
+![Profile Views](https://komarev.com/ghpvc/?username=abimanyu2597&label=Profile+Views&color=6366f1&style=flat-square)
+![Repos](https://img.shields.io/badge/Public%20Repos-29-06b6d4?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20GenAI-7C3AED?style=flat-square)
+
 </div>
 
 -----
@@ -24,6 +28,16 @@ I’m a **Principal Data Scientist & AI Engineer** at **GlobalLogic** with **6.5
 My work sits at the intersection of **LLM orchestration**, **agentic pipelines**, and **real-time AI applications** — from multi-agent LangGraph systems with RAG to voice assistants built on LiveKit. I build full-stack, end-to-end AI products and share knowledge through an **active AI learning community** I run weekly.
 
 > *“I don’t just build AI demos — I ship production systems.”*
+
+<br/>
+
+<div align="center">
+
+|🏢 Company  |🎯 Role                  |📍 Location    |⏳ Experience|
+|:---------:|:----------------------:|:------------:|:----------:|
+|GlobalLogic|Principal Data Scientist|Chennai, India|6.5+ Years  |
+
+</div>
 
 -----
 
@@ -72,7 +86,7 @@ My work sits at the intersection of **LLM orchestration**, **agentic pipelines**
 
 |Project                  |Stack                                                    |Description                                                                             |
 |-------------------------|---------------------------------------------------------|----------------------------------------------------------------------------------------|
-|🔊 **Super Nova**         |LiveKit · Deepgram · GPT-4.1 Mini · Cartesia · Next.js   |Real-time Jarvis-like voice assistant. 28-file full-stack system, sub-200ms latency     |
+|🔊 **Super Nova**         |LiveKit · Deepgram · GPT-4.1 Mini · Cartesia · Next.js   |Real-time Jarvis-like voice assistant — 28-file system, sub-200ms latency               |
 |🧠 **GuidePro AI**        |LangGraph 8-node · GPT-4o/Groq · FAISS · Whisper · Docker|84-file, 4,700+ line enterprise advisory platform with dual LLM routing & multimodal RAG|
 |📊 **CompareIQ AI**       |LangGraph 10-node · Qdrant · Redis SSE · React           |Decision intelligence platform with real-time streaming & multi-criteria analysis       |
 |🕸️ **LiveKG AI**          |Neo4j · GPT-4o · FastAPI · Streamlit                     |Real-time knowledge graph copilot with LLM-powered graph reasoning                      |
@@ -85,11 +99,23 @@ My work sits at the intersection of **LLM orchestration**, **agentic pipelines**
 
 -----
 
-[## 📈 Activity
-> Most of my production work lives in private enterprise repos (GlobalLogic client work).
-> Independent projects are published here as I open-source them.
+## 🏆 GitHub Trophies
 
-</div>](https://github.com/abimanyu2597)
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abimanyu2597&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+-----
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+[![Abimanyu’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abimanyu2597&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 -----
 
@@ -109,11 +135,10 @@ My work sits at the intersection of **LLM orchestration**, **agentic pipelines**
 I’m open to **collaborations**, **freelance AI consulting**, and **enterprise AI engagements**.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-abimanyu-n-691328341)
+[![View Repos](https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abimanyu2597?tab=repositories)
 
-</div>
+<br/>
 
------
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Up.svg)
 
-<div align="center">
-<sub>⚡ Powered by Python, LangGraph & a lot of GPU time</sub>
 </div>
