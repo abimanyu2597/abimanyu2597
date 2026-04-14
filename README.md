@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Raja%20Abimanyu%20N&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Principal%20Data%20Scientist%20%7C%20AI%20%26%20Applied%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,100:06b6d4&amp;height=200&amp;section=header&amp;text=Raja%20Abimanyu%20N&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Principal%20Data%20Scientist%20%7C%20AI%20%26%20Applied%20Machine%20Learning%20Engineer&amp;descAlignY=58&amp;descSize=18" />
 
 <br/>
 
@@ -81,7 +81,7 @@ Full-stack comparison engine with a 10-node agentic pipeline, vector-powered ret
 ### 🧬 LiveKG AI — Real-Time Knowledge Graph Copilot
 > **Neo4j · GPT-4o · Groq · FastAPI · Streamlit (React-embedded)**
 
-Real-time knowledge graph generation and exploration copilot. Integrates Neo4j graph traversal with LLM-powered reasoning and an embedded React component inside Streamlit — required full architectural rewrite for stability.
+Real-time knowledge graph generation and exploration copilot. Integrates Neo4j graph traversal with LLM-powered reasoning and an embedded React component inside Streamlit.
 
 ---
 
@@ -105,8 +105,8 @@ Sequential multi-agent pipeline — Interviewer → Evaluator → Follow-up → 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abimanyu2597&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimanyu2597&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abimanyu2597&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimanyu2597&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117" />
 
 </div>
 
@@ -141,6 +141,6 @@ I'm open to **collaborations**, **freelance AI consulting**, and **enterprise AI
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06b6d4,100:6366f1&amp;height=120&amp;section=footer" />
 
 </div>
