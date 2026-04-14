@@ -85,20 +85,11 @@ My work sits at the intersection of **LLM orchestration**, **agentic pipelines**
 
 -----
 
-## 📈 GitHub Stats
+[## 📈 Activity
+> Most of my production work lives in private enterprise repos (GlobalLogic client work).
+> Independent projects are published here as I open-source them.
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abimanyu2597&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimanyu2597&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abimanyu2597&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/abimanyu2597)
-
-</div>
+</div>](https://github.com/abimanyu2597)
 
 -----
 
