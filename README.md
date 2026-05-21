@@ -23,7 +23,9 @@
 
 ## 👋 About Me
 
-I’m a **Principal Data Scientist & AI Engineer** at **GlobalLogic** with **6.5+ years** of experience designing and shipping production-grade GenAI systems for enterprise clients including **Google**, **Hitachi**, and **Verizon**.
+I’m a **Senior Consultant at EY** and a **Data Scientist & AI Engineer** with **6.5+ years** of experience designing and shipping production-grade GenAI systems for enterprise clients including **Google**, **Hitachi**, and **Verizon**.
+
+Previously, I worked as a **Principal Data Scientist at GlobalLogic**, where I focused on Python automation, GenAI systems, RAG pipelines, and enterprise AI solutions.
 
 My work sits at the intersection of **LLM orchestration**, **agentic pipelines**, and **real-time AI applications** — from multi-agent LangGraph systems with RAG to voice assistants built on LiveKit. I build full-stack, end-to-end AI products and share knowledge through an **active AI learning community** I run weekly.
 
@@ -33,9 +35,10 @@ My work sits at the intersection of **LLM orchestration**, **agentic pipelines**
 
 <div align="center">
 
-|🏢 Company  |🎯 Role                  |📍 Location    |⏳ Experience|
-|:---------:|:----------------------:|:------------:|:----------:|
-|GlobalLogic|Principal Data Scientist|Chennai, India|6.5+ Years  |
+|🏢 Company|🎯 Role|📍 Location|⏳ Experience|
+|:-------:|:----:|:--------:|:----------:|
+|EY|Senior Consultant|Bangalore, India|Present|
+|GlobalLogic|Principal Data Scientist|Chennai, India|Previous|
 
 </div>
 
